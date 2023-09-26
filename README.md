@@ -1,13 +1,13 @@
-# datafun-05-data-at-rest
-# Files, Exceptions, and SQL
+# datafun-06-projects
+# Data Analytics Projects
 
-- [GitHub Repository](https://github.com/meevang/datafun-05-data-at-rest/)
+- [GitHub Repository](https://github.com/meevang/datafun-06-projects/)
 
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
 
 ## Step 1: Open The Project Folder
 
-Open VS Code and clone your `datafun-05-data-at-rest` repository to your machine.
+Open VS Code and clone your `datafun-06-projectst` repository to your machine.
 
 ## Step 2: Update Default Python
 
