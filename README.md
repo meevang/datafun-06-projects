@@ -67,7 +67,7 @@ Verify that a new `.venv` folder was created. It may take a while for the comman
 
 Wait for the creation to finish, then **activate** the virtual environment:
 
-- For PowerShell: `.venv\Scripts\Activate`
+- For PowerShell: `.\.venv\Scripts\Activate`
 - For macOS/Linux:  `source .venv/bin/`
 
 🚀 Rocket Tip: Notice the terminal changes to reflect the active virtual environment.
